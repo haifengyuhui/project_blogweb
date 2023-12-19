@@ -1,7 +1,7 @@
-# project_blogweb
+<img width="238" alt="1702948649070" src="https://github.com/haifengyuhui/project_blogweb/assets/153188620/4c88a92b-3bfa-45cc-af29-d24a03dc0de6"># project_blogweb
 This project aims to study how to create a website.
 The concerning study link is at https://www.bilibili.com/video/BV1uh411f7YC/?p=2&spm_id_from=pageDriver&vd_source=d04928614407e431665d67b522b34995 in BiliBili.
-Here, I complete learning the full process and give some methods to solve the unexpected problems. You could see my notes in my blog passage at xxxxxx.
+Here, I complete learning the full process and give some methods to solve the unexpected problems. You could see my notes in my blog passage at https://blog.csdn.net/castlegirl/article/details/135075747?spm=1001.2014.3001.5502.
 By the way, wish my experience can help some of you.
 
 Attention:
